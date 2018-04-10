@@ -1,5 +1,13 @@
 # e-commerce
 
+## Tecnologías empleadas en este proyecto:
+* HTML5
+* CSS
+* JavaScript
+* bootstrap
+* API
+* Firebase
+
 **Single page application** creada para la compra de artículos, utiliza la API de Mercado Libre para obtener las categorías así como sus productos y la API de PayPal para efectuar los pagos.
 
 ![homepage](./assets/images/homepage.png)
@@ -25,3 +33,5 @@ Se pueden realizar búsquedas de acuerdo a lo que se desea adquirir.
 Contiene un **carrito de compras** donde se puede visualizar los elementos agregados, brindando la opción de eliminarlos o vacíar el carrito.
 
 ![cart](./assets/images/cart.png)
+
+#### Este proyecto ha sido realizado para laboratoria México
