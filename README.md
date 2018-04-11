@@ -1,5 +1,5 @@
 # e-commerce
-
+![image](https://user-images.githubusercontent.com/32860658/38597198-c83dc786-3d1b-11e8-913a-e2bdac2ee12e.png)
 ## Tecnologías empleadas en este proyecto:
 * HTML5
 * CSS
