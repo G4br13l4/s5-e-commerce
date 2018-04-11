@@ -34,4 +34,4 @@ Contiene un **carrito de compras** donde se puede visualizar los elementos agreg
 
 ![cart](./assets/images/cart.png)
 
-#### Este proyecto ha sido realizado para laboratoria México
+##### “Desarrollado para [Laboratoria]”
